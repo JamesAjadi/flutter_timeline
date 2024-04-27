@@ -1,3 +1,4 @@
+![Screenshot_1714233212](https://github.com/JamesAjadi/flutter_timeline/assets/85445911/3f5253d9-8d5a-4824-87ec-224b10266136)
 # flutter_timeline
 
 A new Flutter project.
